@@ -1,4 +1,4 @@
 # OR
 OR Algortihms
 
-Algorithms which I create during the classes at Ozyegin University
+Algorithms which I create using pseudo-codes during the classes at Ozyegin University
