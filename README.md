@@ -1,4 +1,4 @@
 # OR
 OR Algortihms
 
-Algorithms which I create using pseudo-codes or by myself during the classes at Ozyegin University
+Algorithms which I created using pseudo-codes or by myself during the IE 343 OR Algorithms course at Ozyegin University
